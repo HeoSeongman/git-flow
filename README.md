@@ -1,3 +1,3 @@
 # Git Flow
 
-dev 브랜치 생성
+- dev 브랜치 생성
